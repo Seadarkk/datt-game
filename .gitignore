@@ -1,0 +1,34 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+!GameNotCrazy.API/GameNotCrazy.API.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.log
+*.apk
+*.aab
+*.unitypackage
+
+# Secrets — không commit file này lên git
+GameNotCrazy.API/appsettings.Development.json
